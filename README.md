@@ -3,7 +3,7 @@
 ### Quickstart
 
 1. Please install [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/) if not installed yet.
-2. Clone this repository `command to clone here`
+2. Clone this repository `git clone https://github.com/lozhkinandrei/anymind.git`
 3. From the root project folder `anymind`, run `docker-compose up` to build images, create and start containers.
 4. Visit http://localhost in your browser to make sure the server is running. You should see `{"Hello":"World"}`.
 5. Check [API documentation](http://localhost/docs).
@@ -25,7 +25,7 @@ e.g. `docker-compose restart anymind` and `docker restart anymind` gives the sam
 
 ### Assignment Checklist:
 - The deadline is within 5 days from 17 September 2021 <= `21 September 2021` ✔️
-- Push your code to your public repository on GitHub == `link to this repo`
+- Push your code to your public repository on GitHub == [repo](https://github.com/lozhkinandrei/anymind) ✔️
 - You can choose any tool you like for this project but the programming language should be Python 3.7, 3.8, or 3.9 == `Python 3.9` ✔️
 - You can use any Python web framework (Django, Flask, Tornado, ...etc) you prefer == `FastAPI` ✔️
 - The repository should have a readme file with clear instructions on how to deploy/install locally ✔️
